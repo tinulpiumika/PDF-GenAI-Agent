@@ -1,6 +1,6 @@
 # PDF-GenAI-Agent 📚 Chatbot AI 🤖
 
-Introducing PDF-GenAI-Agent! 🚀 Engage in intelligent conversations with multiple PDFs using Langchain, Google Gemini Pro, and FAISS Vector DB, all seamlessly integrated with Streamlit for easy deployment. Get accurate, real-time responses powered by the open-source Google Gemini language model. 📚💬 Revolutionize your PDF interactions today! 🔥✨
+Introducing PDF-GenAI-Agent! 🚀 Engage in intelligent conversations with multiple PDFs using Langchain, Google Gemini Pro, and FAISS Vector DB, all seamlessly integrated with Streamlit for easy deployment. Get accurate, real-time responses powered by the open-source Google Gemini language model. 📚💬 Revolutionize your PDF interactions today! 
 
 ## 📝 Overview
 PDF-GenAI-Agent is a web-based platform built with Streamlit, allowing users to interact with a chatbot. The tool enables users to upload several PDF files, extract the textual content, and use that data to train the chatbot. Users can then have interactive conversations with the AI, which is trained to provide responses based on the content of the uploaded PDFs.
